@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yfsp-utils.iml" filepath="$PROJECT_DIR$/yfsp-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yfsp-utils-common/yfsp-utils-common.iml" filepath="$PROJECT_DIR$/yfsp-utils-common/yfsp-utils-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yfsp-utils-dao/yfsp-utils-dao.iml" filepath="$PROJECT_DIR$/yfsp-utils-dao/yfsp-utils-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yfsp-utils-server/yfsp-utils-server.iml" filepath="$PROJECT_DIR$/yfsp-utils-server/yfsp-utils-server.iml" />
+    </modules>
+  </component>
+</project>
